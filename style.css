@@ -1,0 +1,119 @@
+p {
+color:red;
+
+}
+h1{
+	color:#00FFFF;
+	font-size:50px;
+	font-weight:bold;
+	
+}
+body{
+	
+	
+	background: #F4F4F4;
+    margin: 0;	
+}
+.container{
+	width:780px;
+	margin:0 auto;
+	background: #FFF;
+	
+}
+.header{
+	
+	padding: 45px 0 20px 40px;
+	border: 2px solid black;
+}
+.menu{
+	
+	background: #3b7687;
+	padding: 6px 0 6px 40px;
+	
+	
+}
+.menu a{
+	
+	color: #c5d6db;
+	text-decoration: none;
+	font-size: 14px;
+	font-family: "Arial Narrow", "Myriad pro";
+}
+.menu a:hover{
+	
+	color:#ecf2f3;
+}
+ aside{
+	 float: left;
+	 width: 220px;
+	 padding: 30px 0 0 40px;
+	 
+	  }
+
+h1{
+	
+
+	margin: 0px;
+	font-size:24px;
+	color:#869843;
+	font-weight: normal;
+		font-family: "Arial Narrow", "Myriad pro";
+	
+	
+}
+.main{
+	
+	margin: 0 0 0 180px;
+	padding: 35px 40px 0px 0;
+	color: #444444;
+	font-family: "Georgia";
+	font-size: 20px;
+	line-height: 18px;
+	text-emphasis: justify;
+	
+}
+
+.main a:hover{
+	color:#444444;
+	
+}
+footer{
+	
+	padding:6px 40px 6px 40px;
+	background: #6d6d;
+	font-family:"Lucida Sans Unicode";
+	color: #444444;
+	font-size: 20px;
+	text-decoration: right;
+	
+	
+}
+
+.footer a{
+	text-decoration:none;
+	color: #262626;
+	
+}
+.link-title{
+	
+	font-size: 40px;
+	text-decoration:none;
+	
+}
+.seperator{
+	
+	color:#FFFFFF;
+	font-size:11px;
+	
+	
+}
+
+/*********************about page styles*****************/
+
+#about-page #home-page img{
+	
+	width : 70%;
+	
+}
+
+
